@@ -22,7 +22,7 @@ class ConsoleBot extends Bot {
 
     sendImage(imageFile) {
         return new Promise((resolve) => {
-            console.log("Image(" + imageFile + ")");
+            console.log('Image(' + imageFile + ')');
 
             console.log(imageFile);
             var real = fs.realpathSync(imageFile);
@@ -54,8 +54,8 @@ const stateMachine = new StateMachine({
 
 process.stdin.on('data', function(data) {
     stateMachine.receiveMessage({
-            text: data.toString().trim()
-        })
+        text: data.toString().trim()
+    })
         .catch((err) => {
             console.error(err);
             console.error(err.stack);
