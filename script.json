@@ -6,7 +6,7 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
-    "SMOOCH": "Cool. I’m always happy to chat about Smooch!\nWe are a conversation cloud.\nOut-of-the-box messaging channels where conversations are yours to own.\nKinda like this\n![Plumbing](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Plumbing.png)\nClick on the image to see it bigger. That's alot of channels, right?!\nTime to learn something new. What would you like to learn next? %[Funding](postback:funding) %[Traction](postback:traction) %[Team](postback:team)",
+    "SMOOCH": "Cool. I’m always happy to chat about Smooch!\nWe are a conversation cloud.\nOut-of-the-box messaging channels where conversations are yours to own.\nKinda like this\n![Plumbing](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Plumbing.png)\nClick on the image to see it bigger. That's alot of channels, right?!\nTime to learn something new. What would you like to learn next? %[Funding](postback:FUNDING) %[Traction](postback:traction) %[Team](postback:team)",
     "FUNDING": "Ah, the good details :) Here you go! ![Funding](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Smooch-Funding.png)\nFunding was backed by TA Associates and the Hills family.\nKnow the Hills? %[YES](postback:yes) %[NO](postback:no)"
     
 }
