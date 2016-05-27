@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI'm a bot. And I'm here to help you craft your story./n ![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works, I'll ask you a question and you respond. Back tap or say HUMAN at any time. /n What would you like to write about?? %[Smooch](postback:smooch_btn) %[Building Your Own Bot](postback:learn_about_esther) %[Consumer Survey](postback:random_fact)",
-    "SMOOCH": "Let's see if this works, yo!",
+    "BOT": "Hi there!\nI'm a bot. And I'm here to help you craft your story.\n![SmoochBot](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/botImage-01.png)\nHere's how this works, I'll ask you a question and you respond. Back tap or say HUMAN at any time. /n What would you like to write about?? %[Smooch](postback:smooch_btn) %[Building Your Own Bot](postback:build_bot) %[Consumer Survey](postback:random_fact)",
+    "SMOOCH": "Let's see if this works",
     "HELLO": "testHey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
