@@ -7,11 +7,10 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "SMOOCH": "Cool. I’m always happy to chat about Smooch!\nWe are a conversation cloud.\nOut-of-the-box messaging channels where conversations are yours to own.\nKinda like this\n![Plumbing](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Plumbing.png)\nClick on the image to see it bigger. That's alot of channels, right?!\nTime to learn something new. What would you like to learn next? %[Funding](postback:FUNDING) %[Traction](postback:traction) %[Team](postback:team)",
-    "FUNDING": "Ah, the good details :) Here you go! ![Funding](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Smooch-Funding.png)\nFunding was backed by TA Associates and the Hills family.\nKnow the Hills? %[YES](postback:yes) %[NO](postback:no)",
+    "FUNDING": "Ah, the good details :) Here you go!\n![Funding](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Smooch-Funding.png)\nFunding was backed by TA Associates and the Hills family.\nKnow the Hills? %[YES](postback:yes) %[NO](postback:no)",
     "YES": "Cool guys, right!\nLet's keep chatting.\nPick a new topic %[Team](postback:team) %[Traction](postback:traction) %[Main Menu](postback:main_menu)",
     "NO": "A family of entrepreneurs, Hammie, Hamnett and August Hill founded ZeroKnowledge (now RadialPoint) and sold to AppDirect last year. Today, the Hills are invested in industries such as sustain foods, bitcoin, and communications. Hamnett is rocking the CEO role at Smooch.",
+    "TEAM": "We’re 25 brilliant girls and guys who love to build messaging solutions\n![Team](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Team.png)\nSome of us are in Montreal![Montreal](https://raw.githubusercontent.com/SmoochMediaBot/SmoochMediaBot/master/img/Montreal.jpg)\nAnd some of us are in San Francisco\nCheck out our founders %[MIKE GOZZO](postback:mike_gozzo) %[Hamnett Hill](hamnett_hill) %[Main Menu](main_menu)",
     "MAIN MENU": "%[Smooch](postback:smooch) %[Building Your Own Bot](postback:build_bot) %[Consumer Survey](postback:random_fact)"
-    "TEAM": "We’re 25 brilliant girls and guys who love to build messaging solutions\n"
-    
 }
 
